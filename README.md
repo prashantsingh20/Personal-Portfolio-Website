@@ -1,18 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -32,7 +17,7 @@
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.alex-portfolio.org/">View Demo</a>
+    <a href="https://prashantsingh20.github.io/Personal-Portfolio-Website/">View Demo</a>
     ·
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website/issues">Report Bug</a>
     ·
@@ -43,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![website](https://user-images.githubusercontent.com/68744875/124517975-f7957480-de02-11eb-8a26-66be25a32447.PNG)
-
+![website](https://user-images.githubusercontent.com/68744875/124519609-72608e80-de07-11eb-975f-822f90761570.jpg)
 
 This project represents my personal Portfolio and features some of my github projects
 
@@ -54,12 +39,12 @@ This project was built using these technologies.
 * HTML
 * CSS
 * VsCode
-* Netlify Forms
 
 ## Usage
 
 To have this app on your pc, you need to:
-* [download](https://github.com/prashantsingh20/Personal-Portfolio-Website/archive/development.zip) or clone this repo:
+* [download][Personal-Portfolio-Website-main.zip](https://github.com/prashantsingh20/Personal-Portfolio-Website/files/6766253/Personal-Portfolio-Website-main.zip)
+* 
   - Clone with SSH:
   ```
     git@github.com:prashantsingh20/Personal-Portfolio-Website.git
@@ -103,14 +88,14 @@ Give a :star: if you like this project!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/prashantsingh20/personal_portfolio.svg?styles/default/yes.svg
-[contributors-url]: https://github.com/prashantsingh20/personal_portfolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/prashantsingh20/personal_portfolio.svg?styles/default/yes.svg
-[forks-url]: https://github.com/prashantsingh20rammazzoti2000/personal_portfolio/network/members
-[stars-shield]: https://img.shields.io/github/stars/prashantsingh20/personal_portfolio.svg?styles/default/yes.svg
+[contributors-shield]: https://img.shields.io/github/contributors/prashantsingh20/Personal-Portfolio-Website.svg?styles/default/yes.svg
+[contributors-url]: https://github.com/prashantsingh20/Personal-Portfolio-Websitegraphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/prashantsingh20/Personal-Portfolio-Website.svg?styles/default/yes.svg
+[forks-url]: https://github.com/prashantsingh20//network/members
+[stars-shield]: https://img.shields.io/github/stars/prashantsingh20/Personal-Portfolio-Website.svg?styles/default/yes.svg
 [stars-url]: https://github.com/prashantsingh20/personal_portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/prashantsingh20/personal_portfolio.svg?styles/default/yes.svg
-[issues-url]: https://github.com/prashantsingh20/personal_portfolio/issues
+[issues-shield]: https://img.shields.io/github/issues/prashantsingh20/Personal-Portfolio-Website.svg?styles/default/yes.svg
+[issues-url]: https://github.com/prashantsingh20/Personal-Portfolio-Website/issues
 [netlify-shield]: https://api.netlify.com/api/v1/badges/f88e03cf-ec7b-4593-ac9b-54e4dabffa33/deploy-status
 [netlify-url]: https://app.netlify.com/sites/alex-bangau/deploys
 [product-screenshot]: public/images/screenshot.png
