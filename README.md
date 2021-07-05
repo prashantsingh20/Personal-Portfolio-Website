@@ -40,21 +40,10 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Usage](#usage)
-* [Automated Test](#automated-test)
-* [Author](#author)
-* [Contributing](#contributing)
-* [Acknowledgements](#acknowledgements)
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![website](https://user-images.githubusercontent.com/68744875/124517975-f7957480-de02-11eb-8a26-66be25a32447.PNG)
 
-[![Product Name Screen Shot][product-screenshot]](https://prashantsingh20.github.io/Personal-Portfolio-Website/)
 
 This project represents my personal Portfolio and features some of my github projects
 
@@ -73,11 +62,11 @@ To have this app on your pc, you need to:
 * [download](https://github.com/prashantsingh20/Personal-Portfolio-Website/archive/development.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:rammazzoti2000/Personal-Portfolio-Website.git
+    git@github.com:prashantsingh20/Personal-Portfolio-Website.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/rammazzoti2000/Personal-Portfolio-Website.git
+    https://github.com/prashantsingh20/Personal-Portfolio-Website.git
   ```
 
 * In the project directory, you can run:
@@ -95,21 +84,13 @@ To have this app on your pc, you need to:
     - The build is minified and the filenames include the hashes.
     - Your app is ready to be deployed!
 
-## Automated Test
-  > There are no Automated Test for this project
-
-<!-- LIVE VERSION -->
-## Live version
-
-You can see it [here](https://www.alex-portfolio.org/)
-
 <!-- CONTACT -->
 ## Author
-👤 Alexandru Bangau
+👤 Prashant Singh
 
-- Twitter: [@alex_maxinova](https://twitter.com/prashanthsingh_)
-- Github: [@rammazzoti2000](https://github.com/prashantsingh20)
-- Gmail: bangau.alexandru@gmail.com
+- Twitter: [@prashantsingh_](https://twitter.com/prashanthsingh_)
+- Github: [@prashantsingh20](https://github.com/prashantsingh20)
+- Gmail: prashantsingh.prashant20@gmail.com
 
 ## :handshake: Contributing
 Contributions, issues and feature requests are welcome!
@@ -119,12 +100,6 @@ Feel free to check the [issues page](https://github.com/prashantsingh20/Personal
 ## Show your support
 
 Give a :star: if you like this project!
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Microverse](https://www.microverse.org/)
-* [SmartMockups](https://smartmockups.com/)
-* [Netlify](https://www.netlify.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
