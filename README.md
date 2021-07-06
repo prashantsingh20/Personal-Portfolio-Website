@@ -28,46 +28,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![website](https://user-images.githubusercontent.com/68744875/124517975-f7957480-de02-11eb-8a26-66be25a32447.PNG)
-![website](https://user-images.githubusercontent.com/68744875/124519609-72608e80-de07-11eb-975f-822f90761570.jpg)
 
 This project represents my personal Portfolio and features some of my github projects
 
-### Built With
-This project was built using these technologies.
-* React
-* Node.js
-* HTML
-* CSS
-* VsCode
+## Languages Used
+<p float="left">
+ ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</p>
 
-## Usage
-
-To have this app on your pc, you need to:
-* [download][Personal-Portfolio-Website-main.zip](https://github.com/prashantsingh20/Personal-Portfolio-Website/files/6766253/Personal-Portfolio-Website-main.zip)
-* 
-  - Clone with SSH:
-  ```
-    git@github.com:prashantsingh20/Personal-Portfolio-Website.git
-  ```
-  - Clone with HTTPS
-  ```
-    https://github.com/prashantsingh20/Personal-Portfolio-Website.git
-  ```
-
-* In the project directory, you can run:
-
-  - `$ npm install` - installs all the dependencies required by the project
-
-  - `$ npm start` - runs the app in the development mode:
-    - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-    - The page will reload if you make edits.
-    - You will also see any lint errors in the console.
-
-  - `$ npm run build`
-    - Builds the app for production to the `build` folder.
-    - It correctly bundles React in production mode and optimizes the build for the best performance.
-    - The build is minified and the filenames include the hashes.
-    - Your app is ready to be deployed!
+```
+ ## Cloning this repositary using command line
+ 1. Open **Git Bash**.
+ 1. Change the current working directory to the location where you want the cloned directory.
+ 1. Type `git clone https://github.com/prashantsingh20/Number-guessing-game.git`
+ 1. Press **Enter** to create the clone of this repositary.
+ `
 
 <!-- CONTACT -->
 ## Author
@@ -98,7 +75,6 @@ Give a :star: if you like this project!
 [issues-url]: https://github.com/prashantsingh20/Personal-Portfolio-Website/issues
 [netlify-shield]: https://api.netlify.com/api/v1/badges/f88e03cf-ec7b-4593-ac9b-54e4dabffa33/deploy-status
 [netlify-url]: https://app.netlify.com/sites/alex-bangau/deploys
-[product-screenshot]: public/images/screenshot.png
 
 ## 📝 License
 
