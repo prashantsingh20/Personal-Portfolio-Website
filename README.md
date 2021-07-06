@@ -38,13 +38,13 @@ This project represents my personal Portfolio and features some of my github pro
  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </p>
 
-```
+
  ## Cloning this repositary using command line
  1. Open **Git Bash**.
  1. Change the current working directory to the location where you want the cloned directory.
  1. Type `git clone https://github.com/prashantsingh20/Number-guessing-game.git`
  1. Press **Enter** to create the clone of this repositary.
- `
+ 
 
 <!-- CONTACT -->
 ## Author
