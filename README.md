@@ -7,8 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-
-  <h3 align="center">This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Hobbies, Skills, prject and Contact...</h3>
+####This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Hobbies, Skills, prject and Contact..
   
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website"><strong>Explore the docs »</strong></a>
     <br />
@@ -25,7 +24,6 @@
 ## About The Project
 ![website](https://user-images.githubusercontent.com/68744875/124517975-f7957480-de02-11eb-8a26-66be25a32447.PNG)
 
-This project represents my personal Portfolio and features some of my github projects
 
 ## Text Editor Used
 ![alttext](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
