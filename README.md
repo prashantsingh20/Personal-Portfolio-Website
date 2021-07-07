@@ -5,8 +5,7 @@
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
 <!-- PROJECT LOGO -->
-<br />
-
+<!--br />
 <p align="center">
   <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website">
   </a>
@@ -25,6 +24,28 @@
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website/issues">Report Bug</a>
     ·
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website/issues">Request Feature</a>
+  </p>
+  </p-->
+  <!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/rammazzoti2000/personal_portfolio">
+    <img src="public/images/microverse.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Personal Portfolio</h3>
+
+  <p align="center">
+    This project is part of the Microverse Professional skills curriculum!
+    <br />
+    <a href="https://github.com/rammazzoti2000/personal_portfolio"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.alex-portfolio.org/">View Demo</a>
+    ·
+    <a href="https://github.com/rammazzoti2000/personal_portfolio/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/rammazzoti2000/personal_portfolio/issues">Request Feature</a>
   </p>
   </p>
 
