@@ -3,16 +3,15 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
-[![Netlify][netlify-shield]][netlify-url]
 
 <!-- PROJECT LOGO -->
 <br />
 
 
-  <h3 align="center">Personal Portfolio</h3>
+  <h3 align="center">This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Hobbies, Skills, prject and Contact....</h3>
 
   <p align="center">
-    This project is part of the Microverse Professional skills curriculum!
+    This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Hobbies, Skills, prject and Contact....
     <br />
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website"><strong>Explore the docs »</strong></a>
     <br />
@@ -74,8 +73,6 @@ Give a :star: if you like this project!
 [stars-url]: https://github.com/prashantsingh20/personal_portfolio/stargazers
 [issues-shield]: https://img.shields.io/github/issues/prashantsingh20/Personal-Portfolio-Website.svg?styles/default/yes.svg
 [issues-url]: https://github.com/prashantsingh20/Personal-Portfolio-Website/issues
-[netlify-shield]: https://api.netlify.com/api/v1/badges/f88e03cf-ec7b-4593-ac9b-54e4dabffa33/deploy-status
-[netlify-url]: https://app.netlify.com/sites/alex-bangau/deploys
 
 ## 📝 License
 
