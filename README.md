@@ -7,7 +7,11 @@
 <!-- PROJECT LOGO -->
 <br />
 
-####This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Hobbies, Skills, prject and Contact..
+  <h3 align="center">Personal Portfolio Website</h3>
+
+  <p align="center">
+  This Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Hobbies, Skills, prject and Contact....
+    <br />
   
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website"><strong>Explore the docs »</strong></a>
     <br />
@@ -18,7 +22,6 @@
     ·
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website/issues">Request Feature</a>
   </p>
-</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
