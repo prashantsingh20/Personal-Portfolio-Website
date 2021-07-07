@@ -7,6 +7,11 @@
 <!-- PROJECT LOGO -->
 <br />
 
+<p align="center">
+  <a href="https://github.com/rammazzoti2000/personal_portfolio">
+    <img src="public/images/microverse.png" alt="Logo" width="80" height="80">
+  </a>
+
   <h3 align="center">Personal Portfolio Website</h3>
 
   <p align="center">
@@ -21,6 +26,7 @@
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website/issues">Report Bug</a>
     ·
     <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website/issues">Request Feature</a>
+  </p>
   </p>
 
 <!-- ABOUT THE PROJECT -->
