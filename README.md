@@ -8,8 +8,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/rammazzoti2000/personal_portfolio">
-    <img src="public/images/microverse.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/prashantsingh20/Personal-Portfolio-Website">
   </a>
 
   <h3 align="center">Personal Portfolio Website</h3>
